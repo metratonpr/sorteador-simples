@@ -72,7 +72,7 @@ export function TeamCard({
             team.members.map((member) => (
               <li
                 key={member}
-                className="rounded-full bg-white/25 px-3 py-1 text-sm font-medium text-white"
+                className="rounded-full bg-white/25 px-3 py-1 text-base font-3xl text-white"
               >
                 {member}
               </li>
