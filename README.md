@@ -37,3 +37,4 @@ O projeto inicia em modo desenvolvimento na porta mostrada pelo Vite.
 - Exportacao de dados em JSON ou CSV
 - Estilo responsivo com TailwindCSS, animacoes via Framer Motion e feedback sonoro com Howler.js
 
+"# sorteador-simples" 
